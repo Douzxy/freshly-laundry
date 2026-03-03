@@ -1,0 +1,23 @@
+@import "aos/dist/aos.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-header-gradient {
+    background: rgb(57, 132, 244);
+    background: linear-gradient(
+        169.4deg,
+        #3984f4 -6.01%,
+        #0cd3ff 36.87%,
+        #2f7cf0 78.04%,
+        #0e65e8 103.77%
+    );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+body {
+    font-family: var(--font-poppins), var(--font-inter), sans-serif;
+    overflow-x: hidden;
+    background-color: #f3f4f6;
+}
