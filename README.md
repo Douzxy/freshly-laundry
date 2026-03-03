@@ -1,6 +1,6 @@
 # Freshly Laundry
 
-![Freshly Laundry Screenshot](./public/images/freshlt-laundry.png)
+![Freshly Laundry Screenshot](./public/images/freshly-laundry.png)
 
 `freshly-laundry` is the codebase for the marketing site of a laundry and dry-cleaning service built with **Next.js 16 (App Router)**, **React 19**, **TypeScript**, **Tailwind CSS**, and **Preline UI**.
 

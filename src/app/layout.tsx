@@ -16,7 +16,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-    title: "Freshlt Laundry",
+    title: "Freshly Laundry",
     description: "Layanan laundry satuan dan kiloan dengan kualitas terbaik",
     icons: {
         icon: "/images/Logo.png",
